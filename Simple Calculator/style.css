@@ -1,0 +1,28 @@
+.calculator-container {
+margin-top:10px;
+display: flex;
+  justify-content: center;
+
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    height: 90vh;
+
+}
+
+#display {
+    width: 95%;
+    height: 95%;
+    overflow: auto;
+}
+
+tr {
+    height: 50px;
+}
+
+button {
+    height: 100%;
+    width: 100%;
+}
